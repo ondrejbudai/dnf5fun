@@ -1,7 +1,6 @@
 Just run
 ```
+dnf install -y osbuild-depsolve-dnf python3-dnf python3-libdnf5 jq
 ./run.sh
 ```
-
-on a system that has both python3-dnf and python3-libdnf5.
 
